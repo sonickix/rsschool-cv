@@ -1,1 +1,1 @@
-https://sonickix.github.io/rsschool-cv/cv
+https://sonickix.github.io/rsschool-cv/
