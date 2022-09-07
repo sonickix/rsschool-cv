@@ -13,7 +13,6 @@ I am from Moscow, currently studying Business Administration B.Sc. at the Univer
 1. HTML
 2. CSS
 3. JavaScript
-4. Git
 ***
 ## Languages
 English C1, German C1, Spanish B2, Russian Native
